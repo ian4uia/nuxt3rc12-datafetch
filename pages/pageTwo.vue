@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>useFetch - Page 2</h1>
+    <h1>Data Refresh (#8344) - Page 2</h1>
     <button @click="goBack()">Go Back</button>
   </div>
 </template>

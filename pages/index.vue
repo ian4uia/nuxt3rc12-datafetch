@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>useFetch</h1>
+    <h1>Data Refresh (#8344)</h1>
     <button @click="doRefresh()">Refresh</button><RouterLink to="pageTwo">Page 2</RouterLink>
     <div v-if="pending">
       <h2>Loading...</h2>
